@@ -1,0 +1,19 @@
+HelloWorld
+-----------
+
+This is an example for No Compete Framework (another Perl web framework).
+
+First create symbolic link from root to your HelloWorld folder. 
+
+sudo ln -s ~/path/to/HelloWorld /helloworld
+
+Then your symbolic link to NC in ~/path/to/HelloWorld/perl
+
+cd ~/path/to/HelloWorld/perl/
+ln -s ~/path/to/NC NC
+cd ../etc/apache/
+sudo ./restart_apache.sh
+
+Enjoy!
+
+
