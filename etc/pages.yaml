@@ -1,0 +1,6 @@
+
+    -   name: home
+        path: index
+        is_home: 1
+        package: "CC::Controller::HomePage"
+

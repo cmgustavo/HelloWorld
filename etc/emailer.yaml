@@ -1,0 +1,11 @@
+
+production:    
+    dflt_encoding: iso-8859-1
+    from: '"HelloWorld" <noreply@helloworld.com>'
+    debug: 1
+    smtphost: localhost
+
+devel:
+    output_file: /tmp/emailer_out.html
+
+

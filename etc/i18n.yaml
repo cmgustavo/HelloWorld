@@ -1,0 +1,9 @@
+
+# ====================== ARGENTINA
+  -   domain: helloworld.com.ar.loc
+      cookie_domain: .helloworld.com.ar.loc
+      locale: es_AR.UTF-8
+      country: AR
+      timezone:
+        latest: "-03:00"
+        

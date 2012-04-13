@@ -1,0 +1,7 @@
+devel:
+    path: /helloworld/tt/build
+    preload: 0
+
+production:    
+    path: /helloworld/tt/buildp
+    preload: 1

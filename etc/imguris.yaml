@@ -1,0 +1,10 @@
+
+# DocummentRoot
+droot: "/helloworld/htdocs/images/"
+
+hosts: "img.loc"
+
+uris:
+    user150w:    '/u/150w/%d.jpg'
+    user50w:     '/u/50w/%d.jpg'
+    
