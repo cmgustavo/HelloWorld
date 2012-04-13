@@ -1,0 +1,12 @@
+tt/build/*
+*po.old
+*.swp
+.DS_Store
+.includepath
+.project
+messages.mo
+dump-*
+*swp
+etc/global.yaml
+etc/db.ini
+
