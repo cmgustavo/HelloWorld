@@ -9,4 +9,4 @@ dump-*
 *swp
 etc/global.yaml
 etc/db.ini
-
+perl/NC
